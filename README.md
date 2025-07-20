@@ -1,5 +1,5 @@
 <h2 align="center">
- eCommerce Frontend
+ eCommerce Site
 
 </h2>
 an e-commerce web application built with ReactJS, React-router-dom, Tailwind, Material UI, Axios.
